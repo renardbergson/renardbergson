@@ -1,5 +1,5 @@
 ### Olá, eu sou o Renard 👋
-<p>Brasileiro, 30 anos, estudante de programação front-end, apaixonado por tecnologia e desenvolvimento. <br>
+<p>Brasileiro, 30 anos, desenvolvedor front-end, apaixonado por tecnologia e processos criativos. <br>
 Atualmente cursando Engenharia de Software pela Uninter</p>
 
 ### Tecnologias que mais uso:
