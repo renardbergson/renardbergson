@@ -25,3 +25,5 @@ Confira o meu perfil no LinkedIn: <https://www.linkedin.com/in/renardbergson>
 ![Renard GitHub stats](https://github-readme-stats.vercel.app/api?username=renardbergson&show_icons=true&theme=radical)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=renardbergson&theme=blue-green)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=renardbergson&theme=radical)](https://git.io/streak-stats)
