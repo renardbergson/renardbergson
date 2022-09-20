@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+
 ### Olá! 👋
 <p>Eu sou o Renard, tenho 30 anos e sou apaixonado por processos criativos e pelo desenvolvimento de aplicações. Sempre fui muito curioso e disposto 
 a aprender sobre novas tecnologias e tendências, a fim de descobrir a melhor forma de implementar minhas ideias e projetos. </p>
@@ -22,10 +24,11 @@ Confira o meu perfil no LinkedIn: <https://www.linkedin.com/in/renardbergson>
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=renardbergson&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=renardbergson&theme=radical)](https://git.io/streak-stats)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=renardbergson&theme=blue-green)
+<div style="display: flex;">
+    <img width="77%" src="https://github-readme-stats.vercel.app/api?username=renardbergson&show_icons=true&theme=radical">
+    <img width="77%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renardbergson&layout=compact&langs_count=16&theme=radical">
+</div>
 
+<img style="margin-left: 25%;" src="https://streak-stats.demolab.com/?user=renardbergson&theme=radical)](https://git.io/streak-stats&theme=radical">
 
-
-
+</div>
