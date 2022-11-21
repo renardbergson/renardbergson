@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Olá! 👋
-<p>Eu sou o Renard, tenho 30 anos e sou desenvolvedor Front-End. Atualmente, estou estudando o framework Angular JS e procuro uma oportunidade de trabalho na área. </p>
+<p>Eu sou o Renard, tenho 30 anos e sou desenvolvedor Front-End. Atualmente, estou <br> estudando o framework Angular JS e procuro uma oportunidade de trabalho na área. </p>
 
 Confira o meu perfil no LinkedIn: <https://www.linkedin.com/in/renardbergson>
 
