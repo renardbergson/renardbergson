@@ -20,4 +20,9 @@ Confira o meu perfil no LinkedIn: <https://www.linkedin.com/in/renardbergson>
   
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
+  
+  <br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renardbergson&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
