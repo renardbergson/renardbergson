@@ -1,7 +1,9 @@
 <div align="center">
 
 ### Olá! 👋
-<p>Eu sou o Renard, tenho 30 anos e sou desenvolvedor Front-End e Back-End. Atualmente, estou <br> estudando React JS e procuro uma oportunidade de trabalho na área. Não deixe de conferir meus <br> repositórios e ver quais métodos e tecnologias tenho utilizado para solucionar problemas. </p>
+<p>Eu sou o Renard, tenho 30 anos e sou desenvolvedor Front-End, no momento, bastante empolgado em resolver problemas no Back-End também. Desenvolvi e publiquei projetos utilizando JavaScript, Node JS / Express JS, MongoDB, CSS / SASS, HTML e EJS. Atualmente, estou estudando o framework React JS e procuro oportunidades de trabalho, estágio ou freelancer na área. 
+
+<br> Não deixe de conferir meus [repositórios](https://github.com/renardbergson?tab=repositories) e ver quais métodos e tecnologias tenho utilizado para solucionar problemas. </p>
 
 Confira também o meu perfil no LinkedIn: [Renard Bergson 🤓](https://www.linkedin.com/in/renardbergson)
 
