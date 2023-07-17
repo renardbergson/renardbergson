@@ -1,9 +1,9 @@
 <div align="center">
 
 ### Olá! 👋
-<p>Eu sou o Renard, tenho 30 anos e sou desenvolvedor Front-End. Atualmente, estou <br> estudando React JS e procuro uma oportunidade de trabalho na área. </p>
+<p>Eu sou o Renard, tenho 30 anos e sou desenvolvedor Front-End e Back-End. Atualmente, estou <br> estudando React JS e procuro uma oportunidade de trabalho na área. Não deixe de conferir meus <br> repositórios e ver quais métodos e tecnologias tenho utilizado para solucionar problemas. </p>
 
-Confira o meu perfil no LinkedIn: <https://www.linkedin.com/in/renardbergson>
+Confira também o meu perfil no LinkedIn: [Renard Bergson 🤓](https://www.linkedin.com/in/renardbergson)
 
 ### Tecnologias que mais uso:
 
