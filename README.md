@@ -7,7 +7,7 @@
 
 Confira também o meu perfil no LinkedIn: [Renard Bergson 🤓](https://www.linkedin.com/in/renardbergson)
 
-### Tecnologias que mais uso:
+### Tecnologias que já utilizei em meus projetos de portfólio:
 
 <div style="display: flex; justify-content: space-evenly;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
