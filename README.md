@@ -1,9 +1,9 @@
 <div align="center">
 
 ### Olá! 👋
-<p>Eu sou o Renard, tenho 31 anos, sou desenvolvedor Front-End e, atualmente, também desenvolvo aplicações para Back-End. Desenvolvi e publiquei projetos utilizando JavaScript, Node JS, Express JS, MongoDB, CSS, SASS, HTML e EJS. No momento, estou estudando a biblioteca React JS e procuro oportunidades de trabalho, estágio ou freelancer.</p>
+<p>Seja bem-vindo. Meu nome é Renard, tenho 31 anos e sou desenvolvedor Front-End. Desenvolvi e publiquei projetos utilizando algumas das tecnologias mais usadas no mercado, como JavaScript, React JS, Next JS, Node JS, Express JS, MongoDB, CSS, SASS e HTML. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER, onde tenho tido contato com outras tecnologias.</p>
 
-<br> Não deixe de conferir meus [repositórios](https://github.com/renardbergson?tab=repositories) e ver quais métodos e tecnologias tenho utilizado para solucionar problemas. </p>
+<br> Não deixe de conferir meus [repositórios](https://github.com/renardbergson?tab=repositories) e ver quais métodos utilizei para solucionar alguns problemas. </p>
 
 Confira também o meu perfil no LinkedIn: [Renard Bergson 🤓](https://www.linkedin.com/in/renardbergson)
 
