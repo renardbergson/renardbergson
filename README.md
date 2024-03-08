@@ -1,7 +1,7 @@
 <div align="center">
 
 ### Olá! 👋
-<p>Seja bem-vindo. Meu nome é Renard, tenho 31 anos e sou desenvolvedor Front-End. Desenvolvi e publiquei projetos utilizando algumas das tecnologias mais usadas no mercado, como JavaScript, React JS, Next JS, Node JS, Express JS, MongoDB, CSS, SASS e HTML. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER, onde tenho tido contato com outras tecnologias.</p>
+<p>Seja bem-vindo. Meu nome é Renard, tenho 31 anos e sou desenvolvedor Front-End. Desenvolvi e publiquei projetos utilizando algumas das tecnologias mais usadas no mercado, como JavaScript, React JS, Next JS, Node JS, Express JS, MongoDB, CSS, SASS e HTML. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER, onde tenho tido contato com outras tecnologias, além das que citei.</p>
 
 <br> Não deixe de conferir meus [repositórios](https://github.com/renardbergson?tab=repositories) e ver quais métodos utilizei para solucionar alguns problemas. </p>
 
