@@ -18,7 +18,7 @@
   Conecte-se comigo no LinkedIn para futuras colaborações: <a href="https://www.linkedin.com/in/renardbergson">Renard Bergson 🤓</a>
 </p>
 
-### Principais tecnologias presentes em meus projetos de portfólio:
+### Principais tecnologias com as quais já tive contato:
 
 <div style="display: flex; justify-content: space-evenly;">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
