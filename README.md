@@ -2,7 +2,7 @@
 
 ### Olá! 👋
 <p>
-  Seja bem-vindo! Eu sou Renard, desenvolvedor Front-End em formação como Analista de Sistemas. Possuo experiência prática em tecnologias essenciais para o desenvolvimento de aplicações web modernas, como <strong>ReactJS</strong>, <strong>Next.js</strong>, <strong>Express JS</strong>, <strong>MongoDB</strong>, <strong>SASS</strong> e <strong>Git</strong>. Também já tive contato com <strong>Java</strong> e <strong>Python</strong>, o que ampliou minha visão sobre o desenvolvimento de software.
+  Seja bem-vindo! Eu sou Renard, desenvolvedor Front-End em formação como Analista de Sistemas. Possuo experiência prática em tecnologias essenciais para o desenvolvimento de aplicações web modernas, como <strong>TypeScript</strong>, <strong>ReactJS</strong>, <strong>Next.js</strong>, <strong>Express JS</strong>, <strong>MongoDB</strong>, <strong>SASS</strong> e <strong>Git</strong>. Também já tive contato com <strong>Java</strong> e <strong>Python</strong>, o que ampliou minha visão sobre o desenvolvimento de software.
 </p>
 
 <p>
